@@ -28,10 +28,4 @@ Os testes foram criados utilizando o **JUnit** para validar:
 - Relacionamentos entre Marca, Carro e Acessório  
 - Recuperação e manipulação dos dados no banco
 
-## 🚀 Como executar
 
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
